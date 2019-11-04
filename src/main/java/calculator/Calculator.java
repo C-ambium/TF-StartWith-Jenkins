@@ -12,7 +12,7 @@ public class Calculator {
  * @param b second parameter to addition.
  * @return a+b result.
  */
-    public int add (int a, int b) {
+    public int add(final int a, final int b) {
         return a + b;
     }
 }

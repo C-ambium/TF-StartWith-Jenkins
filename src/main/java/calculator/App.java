@@ -1,13 +1,15 @@
 package calculator;
 /**
- * Main
+ * This is the main entrie of application.
  * @author Colin Cerveaux
  *
  */
-public class App
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+    /**
+     * Here is the main run of this app.
+     * @param args as String Table.
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
     }
 }
