@@ -1,10 +1,10 @@
 package calculator;
-
 /**
- * Hello world!
+ * Main
+ * @author Colin Cerveaux
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
